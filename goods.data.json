@@ -1,0 +1,22 @@
+    {
+        "id": 20,
+        "name": "Стол",
+        "package_params": {
+            "width": 120,            
+            "height": 70
+        },
+        "location_and_quantity": [
+            {
+                "location": "Иннополис",
+                "amount": 17
+            },
+{
+                "location": "Москва",
+                "amount": 1
+            },
+            {
+                "location": "Казань",
+                "amount": 34
+            }
+        ]
+    }
